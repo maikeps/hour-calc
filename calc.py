@@ -75,10 +75,6 @@ class Calculator:
 		return prediction
 
 
-# t1 = Time('18:00')
-# t2 = Time('19:10')
-# print(t1-t2)
-
 if __name__ == '__main__':
 	args = []
 	predict = False
